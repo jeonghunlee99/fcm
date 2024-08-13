@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "283964912807",
+    "project_id": "plzreal-f8d3a",
+    "storage_bucket": "plzreal-f8d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283964912807:android:4f525843496103ecf35782",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283964912807-fq9b1jopr22k30f2micinlvm4d3qsii1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvohwIMq8UlDuhKR0nGgWgK3QaMCnDCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283964912807-fq9b1jopr22k30f2micinlvm4d3qsii1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283964912807:android:703b3e563a42b5dcf35782",
+        "android_client_info": {
+          "package_name": "com.example.yummy_chat_lecture4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283964912807-fq9b1jopr22k30f2micinlvm4d3qsii1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvohwIMq8UlDuhKR0nGgWgK3QaMCnDCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283964912807-fq9b1jopr22k30f2micinlvm4d3qsii1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
