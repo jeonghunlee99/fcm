@@ -20,8 +20,8 @@
 
 ## 프로젝트 설정 방법 ⚙️
 
-1. Firebase 콘솔에서 Firebase 프로젝트를 생성하고, Android 및 iOS 앱을 추가합니다.
-2. `google-services.json`(Android) 및 `GoogleService-Info.plist`(iOS) 파일을 Flutter 프로젝트에 추가합니다.
-3. `pubspec.yaml` 파일에 필요한 패키지를 추가하고 `flutter pub get` 명령어로 패키지를 설치합니다.
-4. Firebase 설정 및 로컬 알림 초기화 코드를 `main.dart` 파일에 추가합니다.
+1. Firebase 콘솔에서 Firebase 프로젝트를 생성하고, Android 및 iOS 앱을 추가.
+2. `google-services.json`(Android) 및 `GoogleService-Info.plist`(iOS) 파일을 Flutter 프로젝트에 추가.
+3. `pubspec.yaml` 파일에 필요한 패키지를 추가하고 `flutter pub get` 명령어로 패키지를 설치.
+4. Firebase 설정 및 로컬 알림 초기화 코드를 `main.dart` 파일에 추가.
 
